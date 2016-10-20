@@ -16,7 +16,7 @@ Rotate Image
 
 Bits counting algorithm (Brian Kernighan)
 
-*This algorithm goes through as many iterations as there are set bits. So if we have a 32-bit word with only the high bit set, then it will only go once through the loop. In the worst case, it will pass once per bit. An integer n has log(n) bits, hence the worst case is O(log(n)). Here's your code annotated at the important bits:
+*This algorithm goes through as many iterations as there are set bits. So if we have a 32-bit word with only the high bit set, then it will only go once through the loop. In the worst case, it will pass once per bit. An integer n has log(n) bits, hence the worst case is O(log(n)). Here's your code annotated at the important bits:*
 
     int count_set_bits(int n){
             int count = 0; // count accumulates the total bits set 
