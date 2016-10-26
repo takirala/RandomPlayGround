@@ -35,3 +35,6 @@ Graph Algos
 https://www.hackerearth.com/practice/notes/graph-theory-part-i/
 
 https://www.hackerearth.com/practice/notes/graph-theory-part-ii/
+
+  ![Prims](http://i.stack.imgur.com/KofyW.gif)
+  ![Krushkals](http://i.stack.imgur.com/6RCFr.gif)
