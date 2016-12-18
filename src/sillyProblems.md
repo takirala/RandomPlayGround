@@ -37,8 +37,11 @@ https://www.hackerearth.com/practice/notes/graph-theory-part-i/
 https://www.hackerearth.com/practice/notes/graph-theory-part-ii/
 
 ![Dijikstra](https://i.imgur.com/XDGniiN.gif)
+
 Dijikstra won't work for negative edges. 
 Time complexity O(Elog(V))
+
+![BellmanFord](http://users.informatik.uni-halle.de/~jopsi/dinf504/bellman_ford.gif)
 
 ![Prims](http://i.stack.imgur.com/KofyW.gif)
 ![Krushkals](http://i.stack.imgur.com/6RCFr.gif)
