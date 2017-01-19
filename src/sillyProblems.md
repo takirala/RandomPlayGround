@@ -14,6 +14,10 @@ Rotate Image
     4 5 6  => 4 5 6  => 8 5 2
     7 8 9     1 2 3     9 6 3
 
+Last Set bit in x :
+
+    x & ~(x-1)
+
 Bits counting algorithm (Brian Kernighan)
 
 *This algorithm goes through as many iterations as there are set bits. So if we have a 32-bit word with only the high bit set, then it will only go once through the loop. In the worst case, it will pass once per bit. An integer n has log(n) bits, hence the worst case is O(log(n)). Here's your code annotated at the important bits:*
