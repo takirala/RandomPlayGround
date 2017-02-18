@@ -34,6 +34,11 @@ Phone Interview src : https://trananh.github.io/blog/work/2014/02/24/preparing-f
 
 Java Collections Performance http://infotechgems.blogspot.com/2011/11/java-collections-performance-time.html
 
+
+Trees :
+
+- Replaces subtrees with '#' using a stack - e.g : https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/?tab=Description
+
 Graph Algos
 
 https://www.hackerearth.com/practice/notes/graph-theory-part-i/
