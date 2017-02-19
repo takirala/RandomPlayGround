@@ -40,6 +40,7 @@ Trees :
 - Replaces subtrees with '#' using a stack - e.g : https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/?tab=Description
 - While doing dfs , immediate parent could be used sometimes. E.g.: https://leetcode.com/problems/graph-valid-tree/?tab=Solutions
 - Stacks could be used while implementing DFS
+- Don't be stupid. You should not use visited[r][c] = false when using DFS.
 
 Graph Algos
 
